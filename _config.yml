@@ -1,2 +1,9 @@
 title: Test
 description: Test
+lang: english
+description: Just my personal website
+url: "https://aza-fishwater.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  aza-fishwater
+
+# Build settings
+theme: minima
